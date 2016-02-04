@@ -13,6 +13,7 @@ Install deps
 
 ```
 npm i
+bower install
 ```
 
 Serve
